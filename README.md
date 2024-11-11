@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Numan Telli, I am a Data Anaylst
+# 👋 Hi, I’m Numan Telli, I am an Engineer and Data Anaylst
 - 👀 I’m interested in data analysing, data science and AI.
 - 🌱 I’m currently learning pyhton, sql and powerbi.
 - 💞️ I’m looking to collaborate on companies which needs Data Analyst
