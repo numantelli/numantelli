@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @numantelli
+# 👋 Hi, I’m Numan Telli, I am a Data Anaylst
 - 👀 I’m interested in data analysing and data science
 - 🌱 I’m currently learning pyhton, sql and powerbi
 - 💞️ I’m looking to collaborate on ... 
