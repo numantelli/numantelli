@@ -2,7 +2,8 @@
 - 👀 I’m interested in data analysing, data science and AI.
 - 🌱 I’m currently learning pyhton, sql and powerbi.
 - 💞️ I’m looking to collaborate on companies which needs Data Analyst
-- 📫 You can reach me via my mail or social medias. All of them on my bio. 
+- 📫 You can reach me via my mail. It is on my bio.
+- My Social Medias: [![LinkedIn](https://www.linkedin.com/in/numan-telli-47442380/)]
 
 
 <!---
